@@ -1,0 +1,7 @@
+GTSRB
+data
+*__pycache__
+*.pth
+*.png
+.DS_Store
+*.zip
